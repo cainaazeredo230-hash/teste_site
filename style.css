@@ -13,7 +13,12 @@
     height: 2rem;
     width: 4rem;
 }
-
+@media (max-width: 750px){
+    .botaoConfirme{
+    height: 10rem;
+    width: 20rem;
+    }
+}
 .bloco {
     background-color: blue;
     padding: 50px;
